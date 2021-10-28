@@ -18,7 +18,7 @@ cycler==0.10.0
 daphne==1.4.2
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.1.9
+Django==2.2.24
 djangorestframework==3.8.2
 entrypoints==0.3
 gast==0.2.0
