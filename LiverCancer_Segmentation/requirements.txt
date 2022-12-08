@@ -7,7 +7,7 @@ autobahn==19.6.2
 Automat==0.7.0
 backcall==0.1.0
 bleach==2.1.4
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.12.3
 channels==1.1.8
 chardet==3.0.4
